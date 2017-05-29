@@ -1,1 +1,2 @@
-# Android_CA - GPS and Car Sensor logging
+GPS and Car Sensor Logger
+# Android_CA
